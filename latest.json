@@ -5,8 +5,9 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "https://raw.githubusercontent.com/wcwnbkls/tauri/main/sierniu.msi.sig",
-      "url": "http://192.168.9.247:3001/sierniu.exe"
+      "url": "http://192.168.9.247:3001/思尔牛-撰写助手_0.1.0_x64_zh-CN.msi"
     }
   }
 
 }
+
