@@ -4,8 +4,9 @@
   "pub_date": "2025-10-23T10:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "http://192.168.9.247:3001/sierniu.exe.sig",
+      "signature": "https://raw.githubusercontent.com/wcwnbkls/tauri/main/sierniu.msi.sig",
       "url": "http://192.168.9.247:3001/sierniu.exe"
     }
   }
+
 }
