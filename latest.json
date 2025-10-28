@@ -1,14 +1,15 @@
 {
-  "version": "1.8.0",
+  "version": "1.9.0",
   "notes": "修复了一些已知问题\n增加了新功能",
   "pub_date": "2025-10-23T10:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVmtYUXFpRDlOOGRvbk93eU4zbjJwM3FPaWlUM2dPcTNyQldJb3NhM0FHZjd1ZXZ6YTVlWW4yTERxVzFNcjd3Q29FbW5CVWh5YVRONkJrZXIyc2xISEI5T1NhUG9JekE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNjIxODE2CWZpbGU65oCd5bCU54mbLeaSsOWGmeWKqeaJi18wLjEuMF94NjRfemgtQ04ubXNpCmJzSjRaS1RndnFjaW1GMzFMREpwaEMwUGY1cTZTdG53ekFDdkJUVkw5clduTTRuRUFLbnY1UWFYYmRYZTVydFYwOEZMNytQdUNHbm1wcTg2LzVKK0N3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDE4MUIzMEQwNDU5MUEwN0IKUldSN29KRkYwREFiR0NVYjBjTzQxSnJWc3MwUlFYWDVZUEdpWUh2SmpNOXR4N25JVEtvdjE2QkcK",
       "url": "http://192.168.9.247:3001/sierniu.msi"
     }
   }
 }
+
 
 
 
