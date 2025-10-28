@@ -1,14 +1,15 @@
 {
-  "version": "2.3.0",
-  "notes": "修复了一些已知问题\n增加了新功能",
+  "version": "2.4.0",
+  "notes": "测试",
   "pub_date": "2025-10-23T10:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWjRPdlJueDFBMnV0K2NhQ05WekdJNFBvM25xUXhFd3JRR2c3NGlyWTIrRHBINzFhVlZvd2RUNlFzMjJaVXE3ZVhCbStCUCtaNURhQndjY0phdHN1cU96cHIrRElTK2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNjQwNjAyCWZpbGU65oCd5bCU54mbLeaSsOWGmeWKqeaJi18wLjEuMF94NjRfemgtQ04ubXNpCjhTa3RIbWh1cnVuTlZ5TldSRGt4NDJlKy9jUDBoWVBJNHBTK1dWZXl0MGtmVkYxbGtZUjIrS0ZUaHduMlUvYysvc3RyMUt4aU40Z3ZBNHZkejNiUkNRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWjRPdlJueDFBMnRtWE8vM3BTLzlhenRqdFl0NW1QSVBJWlY3YzlCVkpPOGpSYlpqWU4rc3pwNVhBMVRpNEhDd3VLRjl0WC9PVEhCQnZQb3B5M0h4c0NXZnNUUm9Camc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNjQxMjY3CWZpbGU65oCd5bCU54mbLeaSsOWGmeWKqeaJi18wLjEuMF94NjRfemgtQ04ubXNpCnNkbXQ5c1pkbjJOdWppMW9BbkE0YUkySWlLcXhJdWtWQ2tYbWdCdkxqNzE3UDFXWVMvNzc4ZWM0V29uTndoT1BzNVMrK2R5NklVbnI1Yi96cE5FdkNRPT0K",
       "url": "http://192.168.9.247:3001/思尔牛-撰写助手_0.1.0_x64_zh-CN.msi"
     }
   }
 }
+
 
 
 
