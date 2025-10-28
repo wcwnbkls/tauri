@@ -1,15 +1,15 @@
 {
-  "version": "1.0.0",
-  "notes": "测试1",
-  "pub_date": "2025-10-23T10:00:00Z",
+  "version": "2.0.0",
+  "notes": "测试2",
+  "pub_date": "2025-10-28T10:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVmtYUXFpRDlOOFNlbGZwb3IwdEtybTFqSklVck5PVkJKamZ1RTRBb1dheXBlK28yR0E3MjNzNFE5cnJmMnRyallWOVJoVFRXZWJza25Id29RMlFMZkNyMklFejZqVndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNjQyMjI3CWZpbGU65oCd5bCU54mbLeaSsOWGmeWKqeaJi18xLjAuMF94NjRfemgtQ04ubXNpCkVlMEFQODBlTjNZcGErdHg1WnF1Q2lEQ1VUWXhNQmZ0Z0V0Qm9jWWErWGtVdVVrZFBVSk5XTDM3ektHUUJOcjRoUDJobkpubElBeUdMRGI0WUVUM0NRPT0K
-      ",
-      "url": "http://192.168.9.247:3001/思尔牛-撰写助手_1.0.0_x64_zh-CN.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWjRPdlJueDFBMm0ydndXWWw2L3FZZ29SUE5KTG1wSlBKRG5PUXc5UEppVXFRdVpPZEJ0Q2R6WENqQjRWbzFHS1grcEFqSnJ4a2EwZUxPQVBVN3JraEUwTWNsWmdtNndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNjQyOTkyCWZpbGU65oCd5bCU54mbLeaSsOWGmeWKqeaJi18yLjAuMF94NjRfemgtQ04ubXNpCmZyY29nK0xkTTd0SFd2MUlaYjNyeUE0d3BQS2tTazl3WkJxbmtneVVLMHczUlZFUmVSVXhVMkI1d0J5TVdVMXVXbU9tMThZNitUeSswSDFpMUZUVkFnPT0K",
+      "url": "http://192.168.9.247:3001/思尔牛-撰写助手_2.0.0_x64_zh-CN.msi"
     }
   }
 }
+
 
 
 
